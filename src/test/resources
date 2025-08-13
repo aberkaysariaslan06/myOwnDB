@@ -1,0 +1,16 @@
+java-maven-project
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── example
+│   │   │           └── App.java
+│   │   └── resources
+│   └── test
+│       ├── java
+│       │   └── com
+│       │       └── example
+│       │           └── AppTest.java
+│       └── resources
+├── pom.xml
+└── README.md
